@@ -77,3 +77,10 @@ Go to python console and download dataset, if you're using [NLTK](https://pypi.o
 # Licence
 
 MIT
+
+### About this project
+
+Palantir is a micro-saas project which is analyses tweets of crypto influencers to predict the direction of the market.  
+This project was made for [Teknasyon Hackathon '22 - Yüzük Kardeşliği](https://teknasyon.com/tech/hackathon22/#/).  
+We took 2nd place among 13 teams.  
+![mordor idman yurdu :)](https://raw.githubusercontent.com/muratdemirci/palantir-be/dio/hackathonwin.jpeg "mordor idman yurdu :))")
